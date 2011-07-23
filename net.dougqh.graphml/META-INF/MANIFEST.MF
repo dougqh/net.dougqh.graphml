@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GraphML
+Bundle-SymbolicName: net.dougqh.graphml
+Bundle-Version: 1.0.0.1
+Bundle-Vendor: Douglas Q Hawkins
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: net.dougqh.graphml,
+ net.dougqh.graphml.yed
